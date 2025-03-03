@@ -1,1 +1,5 @@
 venv
+corpora.tar.gz
+output_folder
+wandb
+resources
