@@ -3,3 +3,5 @@ corpora.tar.gz
 output_folder
 wandb
 resources
+*.h5
+model_weight_feedforward_nn.h5
